@@ -1,0 +1,13 @@
+# csharp folders
+**/bin
+**/Release
+**/debug
+**/Debug
+
+# netbeans folders
+**/build
+**/dist
+
+# misc
+**/*.vs
+**/*.vscode
